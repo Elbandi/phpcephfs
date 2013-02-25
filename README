@@ -1,0 +1,17 @@
+** PHPCEPHFS **
+phpcephfs is a PHP extension for libcephfs.
+
+The extension wraps the C API of libcephfs into a extension, where almost all the native methods are implemented.
+
+** LIMITATIONS **
+The extension should work on both 32 and 64-bit systems, but due to PHP's engine it might now work well with very large objects.
+
+** METHODS / FUNCTIONS **
+For a full overview of the available functions, open a terminal and run:
+
+$ php --re cephfs
+
+** DEPENDENCIES **
+Need libraries (Ubuntu / Debian):
+* libcephfs1
+* libcephfs-dev

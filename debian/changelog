@@ -1,0 +1,5 @@
+php5-cephfs (0.1) lucid; urgency=low
+
+  * First release of php5-cephfs
+
+ -- Andras Elso <elso.andras@gmail.com>  Mon, 25 Feb 2013 00:36:32 +0100

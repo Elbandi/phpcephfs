@@ -1,0 +1,17 @@
+Source: php5-cephfs
+Section: web
+Priority: extra
+Maintainer: Andras Elso <elso.andras@gmail.com>
+Build-Depends: debhelper (>= 7), autotools-dev, php5-dev, cdbs, libcephfs-dev
+Homepage: http://ceph.com/
+Vcs-Git: git://github.com/elbandi/phpcephfs.git
+Vcs-Browser: http://github.com/elbandi/phpcephfs
+
+Package: php5-cephfs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${php:Depends}
+Description: PHP extension for libcephfs
+ phpcephfs is a PHP extension for libcephfs, a distributed object store.
+ .
+ Libcephfs is a part of the Ceph distributed filesystem,
+ for more information visit http://ceph.com/

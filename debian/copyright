@@ -1,0 +1,24 @@
+This work was packaged for Debian by:
+
+    Andras Elso <elso.andras@gmail.com>
+
+It was downloaded from:
+
+    http://github.com/elbandi/phpcephfs
+
+Copyright:
+
+    Copyright (C) 2013 Andras Elso <elso.andras@gmail.com>
+
+License:
+
+    This is free software; you can redistribute it and/or
+    modify it under the terms of the GNU Lesser General Public
+    License version 2.1, as published by the Free Software
+    Foundation.
+
+The Debian packaging is:
+
+    Copyright (C) 2013 Andras Elso <elso.andras@gmail.com>
+
+and is licensed under the LGPL version 2.1, see above.
